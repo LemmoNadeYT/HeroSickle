@@ -1,0 +1,142 @@
+--------------
+     INFO
+--------------
+
+This mod has 45k downloads!
+And the 125th most popular mod!
+Thanks!
+
+[i:29] [c/b61239:Thanks FoolsLynx for their tutorials!]
+[i:29] [c/b61239:Thanks BlushieMagic for their tutorials!]
+
+[i:29] [c/b61239:Thanks Nao for being a spriter!]
+[i:29] [c/b61239:Thanks Corbininja for being a spriter!]
+[i:29] [c/b61239:Thanks DR. Fork for being a spriter!]
+[i:29] [c/b61239:Thanks Delly for being a spriter!]
+
+[i:109] [c/919be7:Improve HeroSickle on the discord server!]
+[i:109] [c/919be7:Homepage goes to the HeroSickle hub!]
+
+-------------
+adds:
+
+(This stuff might be incorrect)
+[i:43] [c/dc1c1c:4 bad bosses!]
+[i:560] [c/3d8efe:1 bad mini boss!]
+[i:3093] [c/efba6f:177 items!]
+[i:3187] [c/c5b965:3 armor sets!]
+[i:3187] [c/c5b965:2 misc hats!]
+[i:3732] [c/7f86cd:1 vanity!]
+[i:3484] [c/b5c2d9:75 weapons?]
+[i:3368] [c/73cdff:15 swords?]
+[i:3853] [c/30c481:3 ranged weapons?]
+[i:1295] [c/ccb548:6 magic weapons!]
+[i:42] [c/afafaf:14 throwing weapons!]
+[i:3483] [c/b5c2d9:3 shortswords!]
+[i:1786] [c/acacac:37 death weapons!]
+[i:3368] [c/73cdff:2 tools!]
+[i:3278] [c/bf8f6f:6 yoyos!]
+[i:285] [c/edde46:22 accessories!]
+[i:492] [c/828282:2 wings!]
+[i:1862] [c/6ad2ff:3 boots!]
+[i:29] [c/b61239:10 hearts!]
+[i:29] [c/b61239:3 fragments!]
+
+--------------
+PLANNED CONTENT
+--------------
+
+[i:351] [c/d2dde9:New mug class!]
+Support with Boss Checklist!
+Super Hard-Mode!
+[i:3335] [c/997ba7:Expert Mode Plus!]
+[i:43] [c/dc1c1c:45 more bosses!]
+Pillars for th fragments!
+New prefixes!
+3 new biomes!
+And alot more! Stay tuned...
+
+--------------
+  CHANGE LOG
+--------------
+4.3.3.1 (About those new ores)
+I'm again sorry if this update feels rushed
+
+This mini-update focuses on adding stuff based off the hardmode ores
+
+New Stuff:
+Sickles based off the hardmode ores and Shurikens based off the first 4 hardmode ores! Added 3 new versions of the Cacti Heart! Added 6 boom box weapons!
+
+Balancing/Changes:
+Some resprites! Dread Scythe projectile doesn't go through walls! HeroSickle has a projectile! Purified Stuff is obtainable now!
+
+4.3.2.1 (A update, I don't kno what else to call it)
+
+Sorry if this update feels rushed, I just wanted to release it
+
+New Stuff:
+Added some cheat weapons, added some normal weapons, 2 new fragments, 1 new heart, My first spear, 1 new throwing weapon, and some other stuff
+
+Balancing/Changes:
+Some resprites for some items, like the Cheat Medal, the Amulets, the Fire, Frost, and Twin Staff, and some more stuf
+
+4.2.2.1 (Another content update)
+
+New Stuff:
+Added 6 melee weapons, 10 throwing weapons, 3 magic weapons, 3 new hearts, and 1 new set of armor!
+
+Balancing/Changes:
+Changed amulet, Royal Sword and Stabber, Lunar Stabba, Night and Honey pick, King Slime's Slasher, and some treasure bags sprites, also moved some shortswords to another WIP mod!
+
+4.2.1.1 (Shortshord update)
+
+New Stuff:
+Added Bone Dust accesory, 4 new shortshords, and someother stuff!
+
+Balancing/Changes:
+Made some bosses harder! Made some items crafted somewhere else!
+
+4.2.0.1 (uhh update)
+
+uhhhhhhhhhhhhhhhhhhhhh
+So, uh? Why does this update exist? Because Nao got a placeholder sprite from some website, and someone found out that it was stolen, so I changed it! If you see any stolen sprite, please tell me!
+
+4.2 (Guilded update)
+
+New Stuff:
+Added the Desert Reaper and Guilded Creeper bosses! Added Cheat Medal, a 1/100 drop from HeroSickle bosses, 1/25 in expert mode! Can be used for cheat items! Added Solar and Lunar disc, added some other stuff.
+
+Balancing/Changes:
+Made Undead Knight spawn less, Cactus Guardian is balanced now! Made cacti bars obtainable, made the Knight's Slasher bigger, made the Ultimate Heart hardmode, balanced some other stuff.
+
+4.1 (Overhaul update)
+ALOT of sprites are resprited now, thanks to DR. Fork, Nao and Me! Removed alot of pointless stuff stuff, Added 13 new sickles, changed the description, blah blah improved the mod alot!
+
+Versions 3.4 and below have been cut off.
+
+--------------
+RECOMMENDED MODS
+--------------
+
+Recipe Browser
+To see crafting recipes for items!
+
+--------------
+FUTURE VERSIONS
+--------------
+
+6.0?
+Like 13 new bosses, like 100 new items, like 20 new npcs, and more!
+
+--------------
+  KNOWN BUGS
+--------------
+
+Cosmic Core and lemmoNade's Wings animations are a little bit broken
+Report more bugs to the HeroSickle discord!
+
+ _ 
+|  |
+|  |_
+|___|
+
