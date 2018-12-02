@@ -1,4 +1,4 @@
-author = lemmoNade, Delly, DR. Fork, Nao, Corbinja
-version = 4.3.3.1
+author = lemmoNade, Delly, DR. Fork, Nao, Corbinja, everyone
+version = 4.3.3.2
 displayName = [c/6a00ff:Hero][c/5100cc:Sickle]
 homepage = https://sites.google.com/view/herosickle-hub
