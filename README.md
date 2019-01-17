@@ -1,3 +1,4 @@
 HeroSickle is a tModLoader mod for the game Terraria
 
-Just ignore the clones of items from the items folder, I accidentally posted them there
+HS 5.0!
+HS 5.0 is coming out sometime!
