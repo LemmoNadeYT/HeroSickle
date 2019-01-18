@@ -9,7 +9,7 @@ namespace HeroSickle.Items
 	{
 		public override void SetStaticDefaults()
 		{
-                        DisplayName.SetDefault("Night's Miner");
+                        DisplayName.SetDefault("Shade Miner");
 			Tooltip.SetDefault("");
 		}
 
