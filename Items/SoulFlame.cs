@@ -12,8 +12,8 @@ namespace HeroSickle.Items
 		{
                         DisplayName.SetDefault("Soul Flame");
 			Tooltip.SetDefault("What keeps people alive\nUseful for magic");
-						ItemID.Sets.ItemNoGravity[item.type] = true;
-									Main.RegisterItemAnimation(item.type, new DrawAnimationVertical(3, 2));
+			ItemID.Sets.ItemNoGravity[item.type] = true;
+			Main.RegisterItemAnimation(item.type, new DrawAnimationVertical(3, 2));
 		}
 
 		public override void SetDefaults()
