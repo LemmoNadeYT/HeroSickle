@@ -5,7 +5,7 @@ using Terraria.ModLoader;
 
 namespace HeroSickle.Items
 {
-	public class TrueNightPick : ModItem
+	public class TrueNightMiner : ModItem
 	{
 		public override void SetStaticDefaults()
 		{
