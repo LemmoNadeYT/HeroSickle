@@ -24,8 +24,8 @@ namespace HeroSickle.Items
 			item.useStyle = 5;
 			item.noMelee = true;
 			item.knockBack = 2;
-			item.value = 10000;
-			item.rare = 3;
+			item.value = 600;
+			item.rare = 1;
 			item.UseSound = SoundID.Item11;
 			item.autoReuse = true;
 			item.mana = 3;
