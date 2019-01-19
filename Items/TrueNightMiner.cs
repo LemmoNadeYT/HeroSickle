@@ -23,11 +23,28 @@ namespace HeroSickle.Items
 			item.useAnimation = 17;
 			item.useStyle = 1;
 			item.knockBack = 4;
-			item.value = Item.buyPrice(gold: 1);
-			item.rare = 3;
+			item.value = Item.buyPrice(gold: 8);
+			item.rare = 8;
 			item.UseSound = SoundID.Item1;
 			item.autoReuse = true;
                         item.pick = 205;
+		}
+		public override bool AltFunctionUse(Player player)
+		{
+			return true;
+		}
+		public override bool CanUseItem(Player player)
+		{
+			if (player.altFunctionUse == 2
+			{
+                                item.shoot = mod.ProjectileType<TrueNightMinerP>();
+                                item.shootSpeed = 10;
+			}
+			else
+			{
+                                item.shootSpeed = 20;
+			}
+			return base.CanUseItem(player);
 		}
 
 		public override void AddRecipes()
